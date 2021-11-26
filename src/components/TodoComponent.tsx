@@ -1,5 +1,5 @@
 import React from "react";
-import { Dispatch } from "redux";
+import { Dispatch } from "react";
 import { addTodo } from "../redux/action";
 import { ITodoState } from "../redux/reducer";
 
